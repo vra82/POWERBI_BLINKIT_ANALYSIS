@@ -51,3 +51,5 @@ Welcome to the **Power BI Analysis and Dashboard** repository! This project leve
 
 ### Contribution
 We welcome contributions! If you have any improvements, bug fixes, or new features to add, feel free to open a pull request. Please ensure your contributions align with the style and objectives of this repository.
+
+<img width="864" alt="Screenshot 2024-07-23 at 1 27 21 AM" src="https://github.com/user-attachments/assets/dfe91fec-6976-4c33-8229-4ae1abe9ad3e">
